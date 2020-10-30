@@ -1,0 +1,51 @@
+,Company_Name,Industry,Last_Price,Change,Change_percent,Mrk_Cap(Rs Cr),Scrape_date
+0,Adani Ports,Transport Infrastructure,359.85,17.15,5.00,"73,112.59",2020-10-30 15:59:00
+1,Asian Paints,Paints,"2,211.50",-13.95,-0.63,"212,126.59",2020-10-30 15:59:00
+2,Axis Bank,Bank - Private,492.50,-1.35,-0.27,"150,713.61",2020-10-30 15:59:00
+3,Bajaj Auto,Automobile - 2 & 3 Wheelers,"2,886.90",-38.45,-1.31,"83,537.37",2020-10-30 15:59:00
+4,Bajaj Finance,Finance - NBFC,"3,309.00",-71.05,-2.10,"199,396.15",2020-10-30 15:59:00
+5,Bajaj Finserv,Finance - Investment,"5,573.50",-50.45,-0.90,"88,695.25",2020-10-30 15:59:00
+6,Bharti Airtel,Telecommunication - Service Provider,433.75,-17.05,-3.78,"236,634.80",2020-10-30 15:59:00
+7,BPCL,Refineries,354.45,12.65,3.70,"76,889.16",2020-10-30 15:59:00
+8,Britannia,Consumer Food,"3,473.25",-59.40,-1.68,"83,610.03",2020-10-30 15:59:00
+9,Cipla,Pharmaceuticals & Drugs,754.50,-7.80,-1.02,"60,840.30",2020-10-30 15:59:00
+10,Coal India,Coal,114.20,3.35,3.02,"70,378.36",2020-10-30 15:59:00
+11,Divis Labs,Pharmaceuticals & Drugs,"3,142.05",34.45,1.11,"83,411.56",2020-10-30 15:59:00
+12,Dr Reddys Labs,Pharmaceuticals & Drugs,"4,888.65",-53.30,-1.08,"81,290.92",2020-10-30 15:59:00
+13,Eicher Motors,Automobile - LCVS/ HVCS,"2,085.60",-51.25,-2.40,"56,984.67",2020-10-30 15:59:00
+14,GAIL,Gas Distribution,84.75,1.30,1.56,"38,223.45",2020-10-30 15:59:00
+15,Grasim,Diversified,778.35,8.15,1.06,"51,209.84",2020-10-30 15:59:00
+16,HCL Tech,IT Services & Consulting,841.95,1.90,0.23,"228,477.03",2020-10-30 15:59:00
+17,HDFC,Finance - Housing,"1,923.55",-10.75,-0.56,"345,432.25",2020-10-30 15:59:00
+18,HDFC Bank,Bank - Private,"1,183.55",-3.65,-0.31,"651,573.16",2020-10-30 15:59:00
+19,HDFC Life,Life & Health Insurance,589.75,3.65,0.62,"119,097.70",2020-10-30 15:59:00
+20,Hero Motocorp,Automobile - 2 & 3 Wheelers,"2,799.80",-94.20,-3.26,"55,930.94",2020-10-30 15:59:00
+21,Hindalco,Iron & Steel,170.65,2.75,1.64,"38,336.15",2020-10-30 15:59:00
+22,HUL,Household & Personal Products,"2,071.30",-50.80,-2.39,"486,663.59",2020-10-30 15:59:00
+23,ICICI Bank,Bank - Private,392.60,-7.30,-1.83,"270,770.54",2020-10-30 15:59:00
+24,IndusInd Bank,Bank - Private,585.70,-3.00,-0.51,"44,305.38",2020-10-30 15:59:00
+25,Infosys,IT Services & Consulting,"1,060.60",-14.25,-1.33,"451,753.23",2020-10-30 15:59:00
+26,IOC,Refineries,79.55,1.15,1.47,"74,889.63",2020-10-30 15:59:00
+27,ITC,Cigarettes/Tobacco,165.25,1.40,0.85,"203,340.73",2020-10-30 15:59:00
+28,JSW Steel,Iron & Steel,309.00,2.20,0.72,"74,692.11",2020-10-30 15:59:00
+29,Kotak Mahindra,Bank - Private,"1,547.40",-23.50,-1.50,"306,291.50",2020-10-30 15:59:00
+30,Larsen,Engineering & Construction,929.50,-5.00,-0.54,"130,525.66",2020-10-30 15:59:00
+31,M&M,Automobile - Auto & Truck Manufacturers,594.00,2.05,0.35,"73,845.64",2020-10-30 15:59:00
+32,Maruti Suzuki,Automobile - Passenger Cars,"6,965.15",-152.55,-2.14,"210,403.29",2020-10-30 15:59:00
+33,Nestle,Consumer Food,"17,161.60",291.00,1.72,"165,464.80",2020-10-30 15:59:00
+34,NTPC,Power Generation/Distribution,87.60,1.10,1.27,"86,676.32",2020-10-30 15:59:00
+35,ONGC,Oil Exploration and Production,64.90,0.50,0.78,"81,646.01",2020-10-30 15:59:00
+36,Power Grid Corp,Power Generation/Distribution,171.00,-0.60,-0.35,"89,460.18",2020-10-30 15:59:00
+37,Reliance,Oil Exploration and Production,"2,054.50",27.60,1.36,"1,324,139.11",2020-10-30 15:59:00
+38,SBI,Bank - Public,189.25,0.55,0.29,"168,898.27",2020-10-30 15:59:00
+39,SBI Life Insura,Life & Health Insurance,769.15,7.65,1.00,"76,918.78",2020-10-30 15:59:00
+40,Shree Cements,Cement,"21,694.55",17.55,0.08,"78,275.56",2020-10-30 15:59:00
+41,Sun Pharma,Pharmaceuticals & Drugs,465.75,9.40,2.06,"111,749.03",2020-10-30 15:59:00
+42,Tata Motors,Automobile - LCVS/ HVCS,132.65,0.75,0.57,"40,975.24",2020-10-30 15:59:00
+43,Tata Steel,Iron & Steel,410.55,9.15,2.28,"46,248.03",2020-10-30 15:59:00
+44,TCS,IT Services & Consulting,"2,664.85",32.20,1.22,"999,954.24",2020-10-30 15:59:00
+45,Tech Mahindra,IT Services & Consulting,813.30,9.05,1.13,"78,643.13",2020-10-30 15:59:00
+46,Titan Company,Diamond  &  Jewellery,"1,165.75",-12.45,-1.06,"103,493.67",2020-10-30 15:59:00
+47,UltraTechCement,Cement,"4,574.05",-2.75,-0.06,"132,020.61",2020-10-30 15:59:00
+48,UPL,Pesticides & Agrochemicals,453.25,3.00,0.67,"34,630.36",2020-10-30 15:59:00
+49,Wipro,IT Services & Consulting,340.70,3.25,0.96,"194,711.39",2020-10-30 15:59:00
