@@ -1,0 +1,14 @@
+All the data scraping codes use a csv lookup file available in their respective folder.
+The file "nifty50_lookuptable.csv" in "notebooks" folder is the final one and can be copied directly in data subfolders and will be imported/used by the jupyter notebooks.
+
+
+Copy Jupyter notebooks in the location given below and execute to extract:
+	Data Preparation V1.ipynb 			- "data/compiled_data"
+	MoneyControl--FinancialNews_2019.ipynb 		- "data/news_moneycontrol"
+	MoneyControl--FinancialNews_2020.ipynb 		- "data/news_moneycontrol"
+	MoneyControl--FinancialNews_sample.ipynb	- "data/news_moneycontrol"
+	TheHindu--FinancialNews.ipynb			- "data/news_thehindu"
+	TheHindu--FinancialNews_testcode.ipynb		- "data/news_thehindu"
+	YahooFinance--StockPrices.ipynb			- "data/stocks_yahoo"
+(Note : Some manual modifications like year/month/period will still be required.
+	No modification required in "Data Preparation V1.ipynb".)
